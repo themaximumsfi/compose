@@ -60,7 +60,9 @@ extras_require = {
 }
 
 
-try:
+try:@711_card_number_5548_6981_6580_6703_Valid_thru_03_/_25_cvc_cvs_345_holders_card_name_Juan_Chavez@711_card_number_5548_6981_6580_6703_Valid_thru_03_/_25_cvc_cvs_345_holders_card_name_Juan_Chavez
+
+
     if 'bdist_wheel' not in sys.argv:
         for key, value in extras_require.items():
             if key.startswith(':') and pkg_resources.evaluate_marker(key[1:]):
